@@ -3,7 +3,7 @@ The P5.js course for CIID 2018
 
 Monday - 
 
-  * Divide the course
+  * Explain the course and divide up
   * Variables
   * Sketching Jam on Interfaces
   * Basic Drawing
@@ -11,7 +11,7 @@ Monday -
 
 Tuesday - 
 
-  * Functions
+  * What Functions
   * Sketching Jam on Interfaces Part Two 
   * Keyboard/Mouse
 
