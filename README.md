@@ -4,7 +4,7 @@ The P5.js course for CIID 2018
 Monday - 
 
   * Explain the course and divide up
-  * Variables
+  * [Variables]('/variables')
   * Sketching Jam on Interfaces
   * Basic Drawing
   * Loading Images
