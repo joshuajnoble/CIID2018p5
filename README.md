@@ -20,7 +20,8 @@ Tuesday -
 Wednesday -
 
   * Intro to the Sound Library
-  * [MIDI and notes](/CIID2018p5/notes)
+  * [MIDI and notes](/CIID2018p5/midi_and_notes)
+  * [Making lots of sounds](/CIID2018p5/auto_piano)
   * Samples
   * Recording Sound
 
