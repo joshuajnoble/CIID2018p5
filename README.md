@@ -11,7 +11,9 @@ Monday -
 
 Tuesday - 
 
-  * What Functions
+  * [Welcome!](https://docs.google.com/presentation/d/1-mCoQY1DI_YerSKSJnKx5Ll5G8LBtsNX9pa5OZHyHLI/edit?usp=sharing)
+  * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
+  * What are Functions
   * Sketching Jam on Interfaces Part Two 
   * Keyboard/Mouse
 
@@ -24,7 +26,7 @@ Wednesday -
 
 Thursday - 
 
-  * Adding controls
+  * [Adding controls](https://docs.google.com/presentation/d/1W8F8W2Z2OExRgOhqkdYtpIaenhohBva9wiJDwSVNhdU/edit?usp=sharing)
   * Using the video library
   * Work on your project
 
