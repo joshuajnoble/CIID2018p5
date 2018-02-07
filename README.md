@@ -18,7 +18,7 @@ Tuesday -
 Wednesday -
 
   * Intro to the Sound Library
-  * MIDI
+  * [MIDI and notes](/CIID2018p5/notes)
   * Samples
   * Recording Sound
 
