@@ -8,7 +8,7 @@ Monday -
   * Sketching Jam on Interfaces
   * Basic Drawing
   * Loading Images
-  ## Bowl of concepts
+  ** Bowl of concepts
 
 Tuesday - 
 
