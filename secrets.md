@@ -1,7 +1,15 @@
 # CIID2018p5
 The P5.js course for CIID 2018
 
-Summary:
+Daily schedule -
+
+* 1 inspiration
+* Bowl of concepts - vocabulary and class "experts"
+* Live coding - learning together
+    - Drawing exercises
+    - Coding exercises - hands-on in pairs
+* Review + peer-teaching - sharing solutions
+
 Monday - 
 
   * Explain the course and divide up
@@ -122,9 +130,13 @@ Friday -
 (HOW WILL THEY PRESENT THEIR PLAN TO US?)
 Keep it simple, small and something you have "Scoped". 
 Imagine the project is for yourself, a family member, a friend. Big ideas can be sketched for the future.
+
 In mind:
+
   - Who is this for? How do you hope they will use it? What will it make them feel?
+
 On paper:
+
 1. What is the input? What is the output? 
   -  Sketch the system
 2. What is your first step? (2nd, 3rd, 4th, etc)
