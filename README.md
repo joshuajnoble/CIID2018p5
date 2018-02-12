@@ -8,6 +8,7 @@ Monday -
   * Sketching Jam on Interfaces
   * Basic Drawing
   * Loading Images
+  * Annelie says hi!
 
 Tuesday - 
 
