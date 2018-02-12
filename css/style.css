@@ -3,6 +3,18 @@ body .markdown-body
 {
   padding: 45px;
 }
+.horizontal {
+  padding: 0 20px 0 20px;
+  min-height: 10em;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#asterisk {
+  position: absolute;
+  bottom: 0px;
+  right:0px;
+}
 
 .markdown-body {
   font-family: sans-serif;
