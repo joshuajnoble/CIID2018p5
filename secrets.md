@@ -126,7 +126,9 @@ Friday -
   * Work on your project!
   * Afternoon: performance
 
-###Friday Project -
+
+### Friday Project -
+
 (HOW WILL THEY PRESENT THEIR PLAN TO US?)
 Keep it simple, small and something you have "Scoped". 
 Imagine the project is for yourself, a family member, a friend. Big ideas can be sketched for the future.
@@ -140,5 +142,5 @@ On paper:
 1. What is the input? What is the output? 
   -  Sketch the system
 2. What is your first step? (2nd, 3rd, 4th, etc)
-3. What wll you need help with? Who can help you?
+3. What will you need help with? Who can help you?
 4. What inspired you to do this?

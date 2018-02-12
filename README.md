@@ -16,7 +16,7 @@ Tuesday -
   * What are Functions
   * Sketching Jam on Interfaces Part Two 
   * Keyboard/Mouse
-17h: Open lecture: Josh!
+  * 17h: Open lecture: Josh!
 
 Wednesday -
 
