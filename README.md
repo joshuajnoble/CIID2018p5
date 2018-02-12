@@ -1,6 +1,14 @@
 # CIID2018p5
 The P5.js course for CIID 2018
 
+Daily schedule -
+  * 1 inspiration
+  * Bowl of concepts - vocabulary and class "experts"
+  * Live coding - learning together
+    - Drawing exercises
+    - Coding exercises - hands-on in pairs
+  * Review + peer-teaching - sharing solutions
+
 Monday - 
 
   * Explain the course and divide up
@@ -8,7 +16,6 @@ Monday -
   * Sketching Jam on Interfaces
   * Basic Drawing
   * Loading Images
-  ** Bowl of concepts
 
 Tuesday - 
 
@@ -17,6 +24,7 @@ Tuesday -
   * What are Functions
   * Sketching Jam on Interfaces Part Two 
   * Keyboard/Mouse
+17h: Open lecture: Josh!
 
 Wednesday -
 
@@ -36,3 +44,65 @@ Friday -
 
   * Work on your project!
   * Afternoon: performance
+
+##COMMUNICATION CHANNELS
+Slack
+This website
+
+##EXPECTATIONS -
+Studio expectations:
+  * Be on time. This means 7 minutes early, in your chair, with your coffee, ready to participate
+  * We learn from each other. Share your bugs, triumphs and questions
+  * Do the assignment
+  * Listen to each other present
+  * Be ready to ask a question, comment and discuss each other's questions and work
+  * You are creating and contributing to the knowledge and learning and teaching of the course
+  * To learn something new, first read about it, then try it out, then teach it to others
+  * Constantly post on slack the following two reflections:
+      - “I don’t know how to…”
+      - “I figured it out - here’s how you can do it…”
+  * Trust the process - learn through doing, repetition until the concept becomes a habit
+  * When confused, first draw out your question / write out your question. Then check the reference to figure out the most simple part of your question. If it doesn’t help, then ask a friend. If no friend, check stack overflow. If still confused, ask us (the instructors)
+  * All question and all answers are valuable
+
+Learning expectations: 
+  * Get familiar with the p5.js coding environment
+  * Computational design, drawing, sound
+  * Appreciation for the medium - appreciate and understand programming as a tool and a medium
+  * Sketching with code - learn the role and potential of programming within the design process
+  * How to structure and plan your code-based concepts
+  * Managing teamwork, expectation and workflow when collaboratively programming
+  * Tips and tricks for handling and learning from errors
+Deliverables / Milestones
+  * Collaborative project design, development and implementation
+  * Evening exercises completion and reflection
+  * Capture the experiences you have created - either screen-capture and/or mixed with personal experience
+
+
+###INSPIRATIONAL PROJECTS - 
+- [Check these out!](https://joshuajnoble.github.io/CIID2018p5/wiki/inspirationalProjects)
+
+###HELP -
+####Videos
+- [Video tutorials on sound](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+- [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
+- [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
+
+####Books
+- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
+- If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
+
+####Example Code
+- [Getting Started with p5.js code](https://github.com/lmccart/gswp5.js-code)
+- [Learning Processing code ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js)
+- [Video lesson accompanying code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
+- [For more about color](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [For more about shapes (specifically "custom shapes" with vertices and bezier curves)](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
+
+####Resources
+- [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
+- [p5.js reference](http://p5js.org/reference)
+- [p5.js forum](http://forum.processing.org/two/)
+- [p5.js tutorials](https://p5js.org/learn/)
+- [Getting Started with p5.js](http://amzn.to/1PmztVt) - O'Reilly book
+- [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
