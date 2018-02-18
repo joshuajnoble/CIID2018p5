@@ -51,6 +51,9 @@ Wednesday -
   * [Making lots of sounds](/CIID2018p5/auto_piano)
   * Samples
   * Recording Sound
+  * IDEA JAM SESH
+    * Designing Sound / Exercises + Ideation
+    * Project concept presentation
 
 Thursday - 
 
