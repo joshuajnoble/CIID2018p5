@@ -1,5 +1,6 @@
 var osc, envelope, fft;
 
+// these are the notes we're going to play
 var scaleArray = [60, 62, 64, 65, 67, 69, 71, 72];
 var note = 0;
 var speed = 60;

@@ -30,6 +30,21 @@ Monday -
     - P5 / the browser / libraries
       + Landscape of HTML, CSS, JavaScript
       + Is p5 JavaScript?
+<<<<<<< HEAD
+    - Get set up: we could use the [web editor for p5.js](https://alpha.editor.p5js.org/)
+  * [Variables](/CIID2018p5/variables)
+    - Local vs. global
+    - Why use a variable? 
+  * Sketching Jam on Interfaces
+    - What a computer understands. Peanut butter + jelly sandwich exercise.
+  * Basic Drawing
+    - Drawing with numbers and colors
+    - Shape functions (a rect is a function)
+    - Exercise: draw an ice cream cone
+      + Part 1: instructions
+      + Part 2: code it
+    - (maybe): setup and draw: what's the difference?
+  * Mouse and color
 
 * Optional Reading -
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
@@ -43,7 +58,8 @@ Local v. global variables
 Circle, Square, Line, Triangle
 mouseX and mouseY
 pmouseX and pmouseY
-Conditional statements
+Conditional statements (if/else)
+for loop
 Functions
 dist()
 map()
@@ -58,6 +74,14 @@ Tuesday -
     - Parenthesis
     - Local + global variables
     - Capitalization
+<<<<<<< HEAD
+  * Loading Images
+
+  * Animation: 
+    - Setup (canvas size, background)
+    - Draw (background, constant)
+    - Keyboard/Mouse: mouseX and mouseY
+=======
   * Change over time: 
     - Review: setup (canvas size, background)
       + Draw (background, constant)
@@ -69,6 +93,7 @@ Tuesday -
     - Loops and conditionals
   * Interaction: Keyboard/Mouse 
       + mouseX and mouseY
+>>>>>>> f6f32b72ed34e0699fec0bc4df8e55d1dac71783
       + pmouseX and pmouseY: the most recent position
       + dist()
       + map()
@@ -77,7 +102,8 @@ Tuesday -
   * Sketching Jam on Interfaces Part Two 
 
 BOWL OF CONCEPTS - 
-Sound focused stuff
+MIDI
+Audio Frequency
 Buttons
 Sliders
 Mouseover
