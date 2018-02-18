@@ -73,14 +73,12 @@ Tuesday -
     - Parenthesis
     - Local + global variables
     - Capitalization
-<<<<<<< HEAD
   * Loading Images
 
   * Animation: 
     - Setup (canvas size, background)
     - Draw (background, constant)
     - Keyboard/Mouse: mouseX and mouseY
-=======
   * Change over time: 
     - Review: setup (canvas size, background)
       + Draw (background, constant)
@@ -92,7 +90,6 @@ Tuesday -
     - Loops and conditionals
   * Interaction: Keyboard/Mouse 
       + mouseX and mouseY
->>>>>>> f6f32b72ed34e0699fec0bc4df8e55d1dac71783
       + pmouseX and pmouseY: the most recent position
       + dist()
       + map()
@@ -108,6 +105,10 @@ Sliders
 Mouseover
 Mouse-click
 Arrays
+Object
+Property
+Parameters
+Return values
 Loops
 Time
 
