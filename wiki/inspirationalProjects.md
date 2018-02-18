@@ -8,7 +8,7 @@
 * [Blokdust](https://www.blokdust.com)
 
 ### Sound Tools
-* [David Byrne] (https://www.youtube.com/watch?v=Gea9SYUdJeY)
+* [David Byrne](https://www.youtube.com/watch?v=Gea9SYUdJeY)
 
 ### Web-based
 * [Thicket](https://www.youtube.com/watch?v=zUw79YA71pg)
