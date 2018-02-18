@@ -11,10 +11,10 @@
 * [David Byrne] (https://www.youtube.com/watch?v=Gea9SYUdJeY)
 
 ### Web-based
-* [Thicket] (https://www.youtube.com/watch?v=zUw79YA71pg)
-* [Bloom] (https://www.youtube.com/watch?v=2tZ7eWqHsdg)
-* [Plink] (https://www.youtube.com/watch?v=CvKHIVFI2w8)
-* [Patatap] (http://www.patatap.com/)
+* [Thicket](https://www.youtube.com/watch?v=zUw79YA71pg)
+* [Bloom](https://www.youtube.com/watch?v=2tZ7eWqHsdg)
+* [Plink](https://www.youtube.com/watch?v=CvKHIVFI2w8)
+* [Patatap](http://www.patatap.com/)
 
 ### Visualization
 * [Nicholas Felton](http://feltron.com/)
@@ -25,8 +25,8 @@
 
 ### Installations
 * [teamLab](http://www.team-lab.net/all) - [Ever Blossoming Life](http://www.team-lab.net/en/latest/exhibition/nagoyagallery2015.html), and [Ultra Subjective Space](http://ultrasubjectivespace.com/)
-* [Janet Cardiff] (https://www.youtube.com/watch?v=OxIeulpigws)
-* [Zimoun] (https://vimeo.com/7235817)
+* [Janet Cardiff](https://www.youtube.com/watch?v=OxIeulpigws)
+* [Zimoun](https://vimeo.com/7235817)
 * [Chris Milk](https://www.youtube.com/watch?v=_2kZdl8hs_s)
 * [Strings](https://vimeo.com/84474194)
 * [21 Balancoires](https://vimeo.com/40980676)
@@ -44,5 +44,5 @@
 * [Stan Vanderbeek](https://www.youtube.com/watch?v=VTrKWJe6CS4) (1972)
 
 ### Other
-* [Sonic meditations] (https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros)
+* [Sonic meditations](https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros)
 * [Telescope Dome Control](http://astro.neutral.org/arduino/how-to-write-arduino-telescope-goto-mount-controller.shtml) - Arduino Motor Control, Computation of Astral Coordinates
