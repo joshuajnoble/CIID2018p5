@@ -55,22 +55,26 @@ Tuesday -
     - Parenthesis
     - Local + global variables
     - Capitalization
-  * Animation: 
-    - Setup (canvas size, background)
-    - Draw (background, constant)
-    - Keyboard/Mouse: mouseX and mouseY
+  * Inspiration
+  * Bowl of concepts presentations
+  * Change over time: 
+    - Review: setup (canvas size, background)
+      + Draw (background, constant)
+  * Interaction: Keyboard/Mouse 
+      + mouseX and mouseY
       + pmouseX and pmouseY: the most recent position
       + dist()
       + map()
       - Exercise: Draw a circle if your mouse is in a specific location
       - Exercise: Draw a rectangle if you press a key
-  * Conditionals: 
+  * What are Functions
+    - (maybe): passing arguments
+    - Loading images
+  * Conditionals and functions: 
     - If, else, and, or
     - Exercise: Make a diagram about how you got here today. Try to note how many times you could have expressed AND/OR experienced computation
   * Loops
     - Why use a loop?
-  * What are Functions
-    - (maybe): passing arguments
   * Sketching Jam on Interfaces Part Two 
 
 BOWL OF CONCEPTS - 
@@ -85,6 +89,10 @@ Time
 
 Wednesday -
 
+  * Inspiration
+  * Bowl of concepts presentations
+  * Confusion fusion review: 
+    - setup/draw, conditionals, functions, loops, variables (global/local), mouse/keyboard, libraries, browser, debugging
   * Intro to the Sound Library
   * [MIDI and notes](/CIID2018p5/midi_and_notes)
   * Arrays
