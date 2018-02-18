@@ -34,7 +34,7 @@ Tuesday -
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
   * Change over time
   * Functions
-  * [Loading Images]("/CIID2018p5/images")
+  * [Loading Images](/images)
   * Loops
   * Interaction
   * Sketching Jam: Interfaces Part II 
