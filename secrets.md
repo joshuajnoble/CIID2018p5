@@ -50,16 +50,22 @@ map()
 Tuesday - 
 
   * [Welcome!](https://docs.google.com/presentation/d/1-mCoQY1DI_YerSKSJnKx5Ll5G8LBtsNX9pa5OZHyHLI/edit?usp=sharing)
+  * Inspiration
+  * Bowl of concepts presentations
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
     - Semi-colons
     - Parenthesis
     - Local + global variables
     - Capitalization
-  * Inspiration
-  * Bowl of concepts presentations
   * Change over time: 
     - Review: setup (canvas size, background)
       + Draw (background, constant)
+  * What are Functions
+    - (maybe): passing arguments
+    - Loading images
+  * Loops
+    - Why use a loop?
+    - Loops and conditionals
   * Interaction: Keyboard/Mouse 
       + mouseX and mouseY
       + pmouseX and pmouseY: the most recent position
@@ -67,14 +73,6 @@ Tuesday -
       + map()
       - Exercise: Draw a circle if your mouse is in a specific location
       - Exercise: Draw a rectangle if you press a key
-  * What are Functions
-    - (maybe): passing arguments
-    - Loading images
-  * Conditionals and functions: 
-    - If, else, and, or
-    - Exercise: Make a diagram about how you got here today. Try to note how many times you could have expressed AND/OR experienced computation
-  * Loops
-    - Why use a loop?
   * Sketching Jam on Interfaces Part Two 
 
 BOWL OF CONCEPTS - 

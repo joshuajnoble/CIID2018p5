@@ -23,11 +23,10 @@ Tuesday -
   * Bowl of concepts presentations
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
   * Change over time
-  * Interaction
-  * What are Functions
-  * Conditionals and functions
+  * Functions
   * Loops
-  * Sketching Jam on Interfaces Part Two 
+  * Interaction
+  * Sketching Jam: Interfaces Part II 
 
 Wednesday -
 
