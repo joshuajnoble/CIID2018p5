@@ -4,10 +4,17 @@ The P5.js course for CIID 2018
 Monday - 
 
   * Explain the course and divide up
-  * [Variables](/CIID2018p5/variables)
-  * Sketching Jam on Interfaces
-  * Basic Drawing
-  * Loading Images
+    - Introduction to us / to you / plan for the week / plan for today
+    - Why learn to code at all?
+    - What's processing? What's p5?
+      - The canvas
+      - Drawing
+      - Variables
+      - Interface sketching jam
+      - Pseudo-code
+      - Conditionals
+      - Interface pseudo-code
+      - P5 / the browser / libraries
 
 Tuesday - 
 

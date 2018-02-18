@@ -20,24 +20,17 @@ Monday -
       - More efficient way to draw / Can be generative / Real-time reactivity / the “ooh” / Combines with data well / Can access and play with unusual aspects of the “user experience” - i.e., sound, location, camera
     - What's processing? What's p5? [Shiffman on history of processing + p5.js](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
       + How about this Arduino thing? MAX?
-    - What about this browser?
+    - Get set up: we could use the [web editor for p5.js](https://alpha.editor.p5js.org/)
+    - The environment / the “grid” / comments / “built-in” / syntax / errors / shapes / [variables](/CIID2018p5/variables)
+    - Setup / the canvas size / color mode / background / global variables / local variables / draw
+    - Interface sketching jam
+    - Pseudo-code / if statements / talking computer talk
+    - Interface pseudo-code
+    - P5 / the browser / libraries
       + Landscape of HTML, CSS, JavaScript
       + Is p5 JavaScript?
-    - Get set up: we could use the [web editor for p5.js](https://alpha.editor.p5js.org/)
-  * [Variables](/CIID2018p5/variables)
-    - Local vs. global
-    - Why use a variable? 
-  * Sketching Jam on Interfaces
-    - What a computer understands. Peanut butter + jelly sandwich exercise.
-  * Basic Drawing
-    - Drawing with numbers and colors
-    - Shape functions (a rect is a function)
-    - Exercise: draw an ice cream cone
-      + Part 1: instructions
-      + Part 2: code it
-    - (maybe): setup and draw: what's the difference?
-  * Loading Images
-Optional Reading -
+
+* Optional Reading -
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
