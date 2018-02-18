@@ -36,7 +36,7 @@ Monday -
       + Part 1: instructions
       + Part 2: code it
     - (maybe): setup and draw: what's the difference?
-  * Loading Images
+  * Mouse and color
 Optional Reading -
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
@@ -49,7 +49,8 @@ Local v. global variables
 Circle, Square, Line, Triangle
 mouseX and mouseY
 pmouseX and pmouseY
-Conditional statements
+Conditional statements (if/else)
+for loop
 Functions
 dist()
 map()
@@ -62,6 +63,8 @@ Tuesday -
     - Parenthesis
     - Local + global variables
     - Capitalization
+  * Loading Images
+
   * Animation: 
     - Setup (canvas size, background)
     - Draw (background, constant)
@@ -81,7 +84,8 @@ Tuesday -
   * Sketching Jam on Interfaces Part Two 
 
 BOWL OF CONCEPTS - 
-Sound focused stuff
+MIDI
+Audio Frequency
 Buttons
 Sliders
 Mouseover
