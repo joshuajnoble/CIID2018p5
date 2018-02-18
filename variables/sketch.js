@@ -13,19 +13,6 @@ function setup() {
 
   print(list[0]);
 
-  for( var i = 0; i < list.length; i++ ) {
-    print(list[i]);
-  }
-
-  if( age == 2018 - 2007)
-  {
-    print(" 11 years old!");
-  }
-  else
-  {
-    print(" not 11 years old ");
-  }
-
 }
 
 function draw() {

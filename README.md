@@ -4,30 +4,46 @@ The P5.js course for CIID 2018
 Monday - 
 
   * Explain the course and divide up
-  * [Variables](/CIID2018p5/variables)
-  * Sketching Jam on Interfaces
-  * Basic Drawing
-  * Loading Images
+    - Introduction to us / to you / plan for the week / plan for today
+    - Why learn to code at all?
+    - What's processing? What's p5?
+      - The canvas
+      - Drawing
+      - Variables
+      - Interface sketching jam
+      - Pseudo-code
+      - Conditionals
+      - Interface pseudo-code
+      - P5 / the browser / libraries
 
 Tuesday - 
 
   * [Welcome!](https://docs.google.com/presentation/d/1-mCoQY1DI_YerSKSJnKx5Ll5G8LBtsNX9pa5OZHyHLI/edit?usp=sharing)
+  * Inspiration
+  * Bowl of concepts presentations
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
-  * What are Functions
-  * Sketching Jam on Interfaces Part Two 
-  * Keyboard/Mouse
-  * 17h: Open lecture: Josh!
+  * Change over time
+  * Functions
+  * Loops
+  * Interaction
+  * Sketching Jam: Interfaces Part II 
 
 Wednesday -
 
+  * Inspiration
+  * Bowl of concepts presentations
+  * Confusion fusion review
   * Intro to the Sound Library
   * [MIDI and notes](/CIID2018p5/midi_and_notes)
+  * Arrays
   * [Making lots of sounds](/CIID2018p5/auto_piano)
   * Samples
   * Recording Sound
 
 Thursday - 
 
+  * Inspiration
+  * Bowl of concepts presentations
   * [Adding controls](https://docs.google.com/presentation/d/1W8F8W2Z2OExRgOhqkdYtpIaenhohBva9wiJDwSVNhdU/edit?usp=sharing)
   * Using the video library
   * Work on your project

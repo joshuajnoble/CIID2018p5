@@ -20,9 +20,16 @@ Monday -
       - More efficient way to draw / Can be generative / Real-time reactivity / the “ooh” / Combines with data well / Can access and play with unusual aspects of the “user experience” - i.e., sound, location, camera
     - What's processing? What's p5? [Shiffman on history of processing + p5.js](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
       + How about this Arduino thing? MAX?
-    - What about this browser?
+    - Get set up: we could use the [web editor for p5.js](https://alpha.editor.p5js.org/)
+    - The environment / the “grid” / comments / “built-in” / syntax / errors / shapes / [variables](/CIID2018p5/variables)
+    - Setup / the canvas size / color mode / background / global variables / local variables / draw
+    - Interface sketching jam
+    - Pseudo-code / if statements / talking computer talk
+    - Interface pseudo-code
+    - P5 / the browser / libraries
       + Landscape of HTML, CSS, JavaScript
       + Is p5 JavaScript?
+<<<<<<< HEAD
     - Get set up: we could use the [web editor for p5.js](https://alpha.editor.p5js.org/)
   * [Variables](/CIID2018p5/variables)
     - Local vs. global
@@ -37,7 +44,8 @@ Monday -
       + Part 2: code it
     - (maybe): setup and draw: what's the difference?
   * Mouse and color
-Optional Reading -
+
+* Optional Reading -
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
@@ -58,29 +66,38 @@ map()
 Tuesday - 
 
   * [Welcome!](https://docs.google.com/presentation/d/1-mCoQY1DI_YerSKSJnKx5Ll5G8LBtsNX9pa5OZHyHLI/edit?usp=sharing)
+  * Inspiration
+  * Bowl of concepts presentations
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
     - Semi-colons
     - Parenthesis
     - Local + global variables
     - Capitalization
+<<<<<<< HEAD
   * Loading Images
 
   * Animation: 
     - Setup (canvas size, background)
     - Draw (background, constant)
     - Keyboard/Mouse: mouseX and mouseY
+=======
+  * Change over time: 
+    - Review: setup (canvas size, background)
+      + Draw (background, constant)
+  * What are Functions
+    - (maybe): passing arguments
+    - Loading images
+  * Loops
+    - Why use a loop?
+    - Loops and conditionals
+  * Interaction: Keyboard/Mouse 
+      + mouseX and mouseY
+>>>>>>> f6f32b72ed34e0699fec0bc4df8e55d1dac71783
       + pmouseX and pmouseY: the most recent position
       + dist()
       + map()
       - Exercise: Draw a circle if your mouse is in a specific location
       - Exercise: Draw a rectangle if you press a key
-  * Conditionals: 
-    - If, else, and, or
-    - Exercise: Make a diagram about how you got here today. Try to note how many times you could have expressed AND/OR experienced computation
-  * Loops
-    - Why use a loop?
-  * What are Functions
-    - (maybe): passing arguments
   * Sketching Jam on Interfaces Part Two 
 
 BOWL OF CONCEPTS - 
@@ -96,6 +113,10 @@ Time
 
 Wednesday -
 
+  * Inspiration
+  * Bowl of concepts presentations
+  * Confusion fusion review: 
+    - setup/draw, conditionals, functions, loops, variables (global/local), mouse/keyboard, libraries, browser, debugging
   * Intro to the Sound Library
   * [MIDI and notes](/CIID2018p5/midi_and_notes)
   * Arrays
