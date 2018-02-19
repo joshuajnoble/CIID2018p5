@@ -15,6 +15,7 @@ Monday -
   * Explain the course and divide up
     - Introduction to us / to you
       + Plan for the week
+        + From now to Friday - FLOW - from intro to interface to designing sound to controlling sound to performing sound
       + Plan for today
     - Why learn to code at all?
       - More efficient way to draw / Can be generative / Real-time reactivity / the “ooh” / Combines with data well / Can access and play with unusual aspects of the “user experience” - i.e., sound, location, camera

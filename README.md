@@ -1,9 +1,18 @@
 # CIID2018p5
 The P5.js course for CIID 2018
 
+* FLOW - from intro to interface to designing sound to controlling sound to performing sound
+* Explore / digital aesthetics / possibilities / of code
+* Build / sketch with / think through / code
+* Play / create interaction / design sound / with code
+* Use / browser-based creative coding
+* Share / vocabulary with code and computers
+* Create / shared knowledge
+
 Monday - 
 
   * Explain the course and divide up
+  * FLOW - from intro to interface to designing sound to controlling sound to performing sound
     - Introduction to us / to you / plan for the week / plan for today
     - Why learn to code at all?
     - What's processing? What's p5?
@@ -21,9 +30,11 @@ Tuesday -
   * [Welcome!](https://docs.google.com/presentation/d/1-mCoQY1DI_YerSKSJnKx5Ll5G8LBtsNX9pa5OZHyHLI/edit?usp=sharing)
   * Inspiration
   * Bowl of concepts presentations
+  * FLOW - From intro to interface
   * [How do I debug?](https://docs.google.com/presentation/d/1aO17BFwzLsxWvytMqbmU6YrRVdhP4K0tA44eC2r6HmQ/edit?usp=sharing)
   * Change over time
   * Functions
+  * [Loading Images](/images)
   * Loops
   * Interaction
   * Sketching Jam: Interfaces Part II 
@@ -33,23 +44,29 @@ Wednesday -
   * Inspiration
   * Bowl of concepts presentations
   * Confusion fusion review
+  * FLOW - from intro to interface to designing sound
   * Intro to the Sound Library
   * [MIDI and notes](/CIID2018p5/midi_and_notes)
   * Arrays
   * [Making lots of sounds](/CIID2018p5/auto_piano)
   * Samples
   * Recording Sound
+  * IDEA JAM SESH
+    * Designing Sound / Exercises + Ideation
+    * Project concept presentation
 
 Thursday - 
 
   * Inspiration
   * Bowl of concepts presentations
+  * FLOW - from intro to interface to designing sound to controlling sound 
   * [Adding controls](https://docs.google.com/presentation/d/1W8F8W2Z2OExRgOhqkdYtpIaenhohBva9wiJDwSVNhdU/edit?usp=sharing)
   * Using the video library
   * Work on your project
 
 Friday - 
 
+  * FLOW - from intro to interface to designing sound to controlling sound to performing sound
   * Work on your project!
   * Afternoon: performance
 
