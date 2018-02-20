@@ -4,6 +4,11 @@
   * Computing without computers: http://www.flong.com/blog/2014/computing-without-computers/
   * Conditional design manifesto: https://conditionaldesign.org/manifesto/
 
+### Sound / visualising sound
+* [Music visualising class](https://github.com/therewasaguy/p5-music-viz)
+* [Listening to data](http://blog.chartbeat.com/2013/10/09/listening-to-the-data/)
+* [Shape of sound] (http://www.bewitched.com/song.html)
+
 ### Sound / Instruments
 * [Blokdust](https://www.blokdust.com)
 
@@ -11,6 +16,7 @@
 * [David Byrne](https://www.youtube.com/watch?v=Gea9SYUdJeY)
 
 ### Web-based
+* [Jazz computer](http://jazz.computer/)
 * [Thicket](https://www.youtube.com/watch?v=zUw79YA71pg)
 * [Bloom](https://www.youtube.com/watch?v=2tZ7eWqHsdg)
 * [Plink](https://www.youtube.com/watch?v=CvKHIVFI2w8)
