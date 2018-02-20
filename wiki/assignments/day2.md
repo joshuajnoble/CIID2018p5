@@ -1,16 +1,17 @@
 
-## Bowl of definitions -
+BOWL OF DEFINITIONS / CONCEPTS -
 
 Take the definition/concept you picked out of the hat.
 Make a sketch that communicates a metaphor for it.
 [Favorite example](http://taeyoonchoi.com/2014/12/3771/)
 
-## Working on the interface concepts -
+WORKING ON THE INTERFACE IDEAS -
 
 How will the person interact with your interface? 
 How will it be "performed"?
 
-What is the input? Feel free to try to find some examples of this. Google p5+ (your input) or look at the other [p5 libraries](https://p5js.org/libraries/) or look at [p5 examples](https://p5js.org/examples/). 
+What is the input? Can you sketch it out by hand? In code?
+Try to find some examples of this. Google p5+ (your input) or look at the other [p5 libraries](https://p5js.org/libraries/) or look at [p5 examples](https://p5js.org/examples/). 
 
 * mouse press, mouse click, keyboard, keyboard arrows
 * camera, sound (sensed in room), image, mobile device (tricky to play certain sound though)
