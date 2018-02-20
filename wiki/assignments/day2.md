@@ -1,9 +1,12 @@
-##Bowl of definitions:
+
+##Bowl of definitions -
+
 Take the definition/concept you picked out of the hat.
 Make a sketch that communicates a metaphor for it.
 [Favorite example](http://taeyoonchoi.com/2014/12/3771/)
 
-##Working on the interface concepts:
+##Working on the interface concepts -
+
 How will the person interact with your interface? 
 How will it be "performed"?
 
